@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = pierre.renaudin@gmail.com
+	email = renaudin.pierre@gmail.com
 	name = Pierre Renaudin
